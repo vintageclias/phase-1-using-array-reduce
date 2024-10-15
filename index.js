@@ -8,3 +8,4 @@ const totalBatteries = batteryBatches.reduce((accumulator, current) => accumulat
 
 // Log the output to the console  
 console.log(totalBatteries); // Expected output: 31
+
